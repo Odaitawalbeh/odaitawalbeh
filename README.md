@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Odai Tawalbeh</h1>
 <h3 align="center">I'm a full-stack developer from Jordan. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like coding and building various projects with Arduino and design using AutoCAD. You can find me on LinkedIn (odaitawalbeh). Feel free to contact me any time.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
 - 🌱 I’m currently learning **Redux.js**
 
