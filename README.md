@@ -1,6 +1,6 @@
 ## <h2>Hi 👋, I'm Odai Tawalbeh</h2>
 
-<h4 align="left">I'm a full-stack developer from Jordan. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like coding and building various projects with Arduino and design using AutoCAD. You can find me on LinkedIn (odaitawalbeh). Feel free to contact me any time.</h4>
+<h4 align="left">I'm a full-stack developer from Jordan. I enjoy coding open-source projects that solve unique problems. I love combining my hobbies like coding and building various projects with Arduino and design using AutoCAD. You can find me on [LinkedIn](https://www.linkedin.com/in/odaitawalbeh/). Feel free to contact me any time.</h4>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif"/>
 
 - 🌱 I’m currently learning **socket.io**
